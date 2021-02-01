@@ -1,15 +1,9 @@
 # In This I have created an app using vue-native.
 
-Project setup
+After cloning the project
 
-# Install cli globally using below command
-npm install --global vue-native-cli
-
-# Now install expo globally
-npm install --global expo-cli
-
-# Create project using this command
-vue-native init <projectName>
+# Run command 
+yarn add expo
 
 # Go to folder directory
 cd <projectName>
